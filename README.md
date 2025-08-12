@@ -1,16 +1,16 @@
-<h2 align="center">Hi 👋 I'm Vishwa R</h2>
+<h2 align="left">Hi 👋 I'm Vishwa R</h2>
 
 ###
 
-<h2 align="center">A  Possionate Software Engineer from India</h2>
+<h2 align="left">A  Possionate Software Engineer from India</h2>
 
 ###
 
-<h2 align="center">I am computer science and  engineering student.I am now studying at Sahyadri College of Engineering and Management Mangalore Karnataka</h2>
+<h2 align="left">I am computer science and  engineering student.I am now studying at Sahyadri College of Engineering and Management Mangalore Karnataka</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://bigthink.com/wp-content/uploads/2020/12/AdobeStock_214469252-scaled-1.jpeg"  />
 </div>
 
