@@ -10,12 +10,6 @@
 
 ###
 
-<div align="left">
-  <img height="150" src="https://bigthink.com/wp-content/uploads/2020/12/AdobeStock_214469252-scaled-1.jpeg"  />
-</div>
-
-###
-
 <h2 align="left"> 🌐 Socials:</h2>
 
 ###
